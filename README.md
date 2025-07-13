@@ -24,4 +24,4 @@ Run the script and choose between the converter or appender tool:
 
 
 ```bash
-python3 hid_tool.py
+python3 HID_tools.py
