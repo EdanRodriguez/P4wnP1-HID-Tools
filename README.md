@@ -25,3 +25,6 @@ Run the script and choose between the converter or appender tool:
 
 ```bash
 python3 HID_tools.py
+```
+
+<img src="./Visual_Illustration.jpg" alt="Tool Workflow" width="600">
